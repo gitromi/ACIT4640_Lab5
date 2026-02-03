@@ -4,3 +4,6 @@ Group: jaskirat, Chelsie, Ramnik
 
 Screenshot:
 ![](lab5.png)
+
+AMI:
+![](ami.png)
